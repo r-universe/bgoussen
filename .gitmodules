@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "odeGUTS"]
+	path = odeGUTS
+	url = https://github.com/bgoussen/odeguts
+	shallow = true
+	registered = true
