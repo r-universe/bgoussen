@@ -1,5 +1,9 @@
 [
   {
+    "package": "BeeGUTS",
+    "oncran": true
+  },
+  {
     "package": "odeGUTS",
     "oncran": true
   }
