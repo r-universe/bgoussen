@@ -1,10 +1,10 @@
 [
   {
-    "package": "BeeGUTS",
+    "package": "odeGUTS",
     "oncran": true
   },
   {
-    "package": "odeGUTS",
+    "package": "BeeGUTS",
     "oncran": true
   }
 ]
