@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "BeeGUTS"]
-	path = BeeGUTS
-	url = https://github.com/bgoussen/beeguts
 [submodule "odeGUTS"]
 	path = odeGUTS
 	url = https://github.com/bgoussen/odeguts
